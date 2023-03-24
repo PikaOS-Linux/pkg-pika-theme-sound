@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=Pika
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
