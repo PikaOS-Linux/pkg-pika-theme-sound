@@ -1,0 +1,8 @@
+############
+# sound settings #
+############
+
+[org.gnome.desktop.sound]
+event-sounds = true
+input-feedback-sounds = true
+theme-name = 'pika'

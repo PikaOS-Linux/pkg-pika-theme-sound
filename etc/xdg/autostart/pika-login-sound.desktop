@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Play Login Sound on startup
+Exec=/etc/pika_login.sh
+Type=Application
+Terminal=false

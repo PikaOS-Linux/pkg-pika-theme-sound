@@ -10,3 +10,4 @@ Homepage: https://github.com/PikaOS-Linux/pkg-pika-theme-sound
 Package: pika-theme-sound
 Architecture: all
 Description: Pika Sounds
+Depends: gnome-session-canberra, libglib2.0-bin
